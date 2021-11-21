@@ -31,7 +31,7 @@ We encourage to use [conda package manager](https://docs.conda.io/en/latest/) fo
         ```
     2. Task-aware experiments (Proposed method on x4096 compression)
         ```
-        python run.py --data_dir "./datasets/mnistgrid_mnistsize(32)_imgsize(640)" --exp_type 'contentaware' --dataset_name mnistdigits_grid2patch
+        python run.py --data_dir "./datasets/mnistgrid_mnistsize(32)_imgsize(640)" --exp_type 'segmentation' --dataset_name mnistdigits_grid2patch
         ```
         
 
