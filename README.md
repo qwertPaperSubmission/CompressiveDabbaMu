@@ -6,8 +6,8 @@ We encourage to use [conda package manager](https://docs.conda.io/en/latest/) fo
 
 1. Clone the repository
     ```
-    git clone xxx
-    cd xxx
+    git clone https://github.com/qwertPaperSubmission/CompressiveDabbaMu.git
+    cd CompressiveDabbaMu
     ```
 
 2. Create environment and install packages
