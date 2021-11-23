@@ -23,7 +23,7 @@ We encourage to use [conda package manager](https://docs.conda.io/en/latest/) fo
     python create_patchMNIST_dataset.py 
     ```
 
-4. Run experiments
+4. Run experiments: Train and Evaluate
 
     1. Content-aware experiments (Proposed method on x4096 compression)
         ```
